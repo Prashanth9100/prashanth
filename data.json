@@ -1,0 +1,41 @@
+{
+  "basics":{
+  "name":"prashanth",
+  "phone":"9100",
+"email":"pvprashanth030@gmail.com"
+},
+"education":[{
+  "course":"B.Tech(Computer Science Engineering)",
+  "college":"GEC",
+  "data":["2015-2019","85%","AUTONOMOUS"]
+},
+{
+"course":"Inter(mpc)",
+"college":"Sri Chaitanya junior college",
+"data":["2013-2015","90%"]
+},
+{
+"course":"10-standard",
+"college":"Bhashyam",
+"data":["2012-2013","85%"]
+}],
+"skills":[
+  {
+    "name":"Language known",
+    "info":["c","python","java","javascript"]
+  },
+  {
+    "name":"Operating Systems",
+    "info":["linux","windows","fedora","unix"]
+  },
+  {
+    "name":"libraries",
+    "info":["jquery","bootstrap"]
+  },
+  {
+    "name":"Data Bases",
+    "info":["Oracle","Mysql"]
+}
+
+]
+}
